@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: University were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = https://ysn.sya.mybluehost.me/website_56f0f649
+Data file = /home3/ysnsyamy/public_html/website_56f0f649/wp-content/uploads/2024/02/demo-content-import-file_2024-02-20__09-05-04.xml
+Widget file = /home3/ysnsyamy/public_html/website_56f0f649/wp-content/uploads/2024/02/demo-widgets-import-file_2024-02-20__09-05-04.json
+Customizer
+
+---Importing widgets---
+Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Categories - No Title - Imported
+
+Footer Widget 1 : 
+
+Text - No Title - Imported
+Text - No Title - Imported
+
+Footer Widget 2 : 
+
+Navigation Menu - Quick Links - Imported
+
+Footer Widget 3 : 
+
+Navigation Menu - Resources - Imported
+
+Footer Widget 4 : 
+
+Navigation Menu - Support - Imported
+
+Footer Social Media : 
+
+Custom HTML - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

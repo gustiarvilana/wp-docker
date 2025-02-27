@@ -6,7 +6,7 @@ services:
     container_name: ramarmalia_wordpress # Nama container untuk WordPress
     restart: always
     ports:
-      - "8888:80" # Port untuk WordPress
+      - "80:80" # Port untuk WordPress
     environment:
       WORDPRESS_DB_HOST: db
       WORDPRESS_DB_USER: dewo
